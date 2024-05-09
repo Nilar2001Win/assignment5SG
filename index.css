@@ -1,0 +1,75 @@
+hr{
+    height: 2px;
+    width: 100%;
+}
+.container{
+    width: 900px;
+    margin-top: 100px;
+    margin-left: 230px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.card{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.card1{
+    margin: 10px;
+    width: 300px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    position: relative;
+}
+.cardbody{
+    align-items: center;
+    text-align: center;
+}
+.image{
+    width: 300px;
+    height: 200px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    position: relative;
+}
+.btn{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: blue;
+    width: 90px;
+    height: 29px;
+}
+.cardbottom{
+    margin: 15px;
+}
+p{
+    color: lightgray;
+}
+.header{
+    width: 900px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.blog{
+    padding: 10px;
+    height: 40px;
+    width: 150px;
+    border-bottom: 2px solid blue;
+    
+    
+}
+h4{
+    left: 5px;
+    bottom: 0px;
+}
+.btn1{
+    height: 30px;
+    margin-top: 30px;
+    border: none;
+    color: blue;
+}
